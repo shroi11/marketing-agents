@@ -102,22 +102,85 @@ The core of this skill is Russell Brunson's "Hook, Story, Offer" framework, whic
 
 ## Templates & Frameworks
 
-### Short-Form VSL Structure (Under 10 Minutes)
-*   **Hook (15-30 seconds)**: Pattern Interrupt + Big Promise.
-*   **Problem (1-2 minutes)**: Quickly state the main problem and agitate it.
-*   **Solution Tease (30 seconds)**: Hint at your unique mechanism.
-*   **Quick Story (1-2 minutes)**: A very brief epiphany bridge.
-*   **Offer Stack (2-3 minutes)**: Rapidly stack the value.
-*   **CTA (1 minute)**: Strong, urgent call to action.
+### CRITICAL SCRIPT WRITING RULES
 
-### Long-Form VSL Structure (20-45 Minutes)
-*   **Hook (1-2 minutes)**: Pattern Interrupt, Big Promise, Curiosity, Future Pace.
-*   **Intro & Problem (5-10 minutes)**: Introduce yourself, build rapport, and do a deep dive into the 3 levels of pain.
-*   **Epiphany Bridge Story (10-15 minutes)**: Your full, detailed story.
-*   **The Solution & Unique Mechanism (3-5 minutes)**: Reveal your product.
-*   **The Offer Stack (5-7 minutes)**: Methodically build the stack, anchoring value for each item.
-*   **Price Reveal & Risk Reversal (2-3 minutes)**: Justify the price and offer a strong guarantee.
-*   **The Close (3-5 minutes)**: Multiple CTAs, urgency, scarcity, and final future pacing.
+**Word Count = Runtime:**
+- 1 minute of spoken video = approximately 130-150 words
+- Always write to word count, never just label a section with a time range
+- After each section, note the approximate word count in brackets
+
+**Always specify the total VSL length in your brief.** Default to SHORT-FORM (3-5 minutes) unless explicitly asked for long-form.
+
+---
+
+### Short-Form VSL Structure (3-5 Minutes | ~450-750 words total)
+
+*   **Hook (20-30 seconds | ~50-70 words)**: One powerful pattern interrupt + big promise. Maximum 2-3 sentences. Do NOT write a paragraph - write exactly 2-3 punchy sentences.
+
+*   **Problem (45-60 seconds | ~100-130 words)**: State the core problem, agitate briefly at 3 levels (external, internal, philosophical). One short paragraph per level. No more.
+
+*   **Solution Tease (15-20 seconds | ~35-45 words)**: One sentence hint at unique mechanism. Create curiosity, don't reveal yet.
+
+*   **Quick Story (60-90 seconds | ~130-200 words)**: 3-4 short paragraphs. Setup → Struggle → Epiphany → Result. Tight and punchy.
+
+*   **Offer Stack (45-60 seconds | ~100-130 words)**: Core offer + 2-3 bonuses maximum. Assign value to each. Reveal price. One line per item.
+
+*   **CTA (30-45 seconds | ~65-100 words)**: Direct instruction + urgency + future pace. Close strong.
+
+**Total: ~480-675 words | Read time: 3-4.5 minutes**
+
+---
+
+### Medium-Form VSL Structure (8-12 Minutes | ~1,100-1,600 words total)
+
+*   **Hook (30-60 seconds | ~65-130 words)**: Pattern interrupt + big promise + curiosity tease.
+
+*   **Problem & Agitation (2-3 minutes | ~260-390 words)**: Full 3-level pain exploration. External (what's happening), Internal (how it makes them feel), Philosophical (why it's unfair/wrong). One solid paragraph per level.
+
+*   **Epiphany Bridge Story (3-4 minutes | ~390-520 words)**: Full story arc. Backstory → Problem hit home → Hit the wall → The discovery → The result. 4-5 paragraphs.
+
+*   **Solution & Unique Mechanism (1-2 minutes | ~130-260 words)**: Introduce product name, explain the unique mechanism, why it works when other things failed.
+
+*   **Offer Stack (1-2 minutes | ~130-260 words)**: Core offer + 3-5 bonuses + value anchoring + price reveal + guarantee.
+
+*   **Close (1-2 minutes | ~130-260 words)**: CTA + urgency/scarcity + future pace + repeat CTA.
+
+**Total: ~1,105-1,820 words | Read time: 8-12 minutes**
+
+---
+
+### Long-Form VSL Structure (20-30 Minutes | ~2,600-3,900 words total)
+
+Only use when: High-ticket offer ($2,000+), cold traffic, complex product requiring deep education.
+
+*   **Hook (1-2 minutes | ~130-260 words)**: Multiple pattern interrupts, big promise, future pace, curiosity stack.
+
+*   **Intro & Credibility (2-3 minutes | ~260-390 words)**: Who you are, why you're qualified, who this is for.
+
+*   **Problem & Agitation (4-5 minutes | ~520-650 words)**: Deep 3-level pain. Stories and examples. Make them feel truly understood.
+
+*   **Epiphany Bridge Story (6-8 minutes | ~780-1,040 words)**: Full detailed story. Rich detail, emotional beats, specific moments.
+
+*   **Solution & Unique Mechanism (3-4 minutes | ~390-520 words)**: Full product explanation, mechanism breakdown, proof of concept.
+
+*   **Offer Stack (4-5 minutes | ~520-650 words)**: Comprehensive stack with full value anchoring, payment options, guarantee details.
+
+*   **Close (2-3 minutes | ~260-390 words)**: Multiple CTAs, strong urgency, vivid future pacing, final objection handling.
+
+**Total: ~2,860-3,900 words | Read time: 20-30 minutes**
+
+---
+
+### PRODUCTION NOTE FORMAT
+
+Always write production notes in square brackets on their own line:
+```
+[VISUAL: Aerial shot of Madrid skyline at golden hour]
+[MUSIC: Soft, warm acoustic guitar fades in]
+[TEXT OVERLAY: "Casa Liora - Get the service you deserve"]
+```
+
+Never write "(5-10 minutes)" next to a section that contains only a paragraph. If the content doesn't match the time, write more content or reduce the time label.
 
 ## Examples
 
